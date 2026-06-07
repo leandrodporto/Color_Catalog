@@ -1,0 +1,2158 @@
+﻿[
+  {
+    "hex": "AB274F",
+    "name": "Rosa Cereja"
+  },
+  {
+    "hex": "7C0902",
+    "name": "Lava Derretida"
+  },
+  {
+    "hex": "FE6F5E",
+    "name": "Coral Vibrante"
+  },
+  {
+    "hex": "BF4F51",
+    "name": "Tijolo Corado"
+  },
+  {
+    "hex": "660000",
+    "name": "Granada Escura"
+  },
+  {
+    "hex": "FB607F",
+    "name": "Rosa Chiclete"
+  },
+  {
+    "hex": "800020",
+    "name": "Borgonha"
+  },
+  {
+    "hex": "FF0800",
+    "name": "Vermelho Elétrico"
+  },
+  {
+    "hex": "FDBCB4",
+    "name": "Blush em Pó"
+  },
+  {
+    "hex": "C51E3A",
+    "name": "Cereja Intensa"
+  },
+  {
+    "hex": "960018",
+    "name": "Carmesim Profundo"
+  },
+  {
+    "hex": "DE3163",
+    "name": "Flor Magenta"
+  },
+  {
+    "hex": "E23D28",
+    "name": "Tangerina Queimada"
+  },
+  {
+    "hex": "58111A",
+    "name": "Noite Bordéus"
+  },
+  {
+    "hex": "E44D2E",
+    "name": "Terracota Ardente"
+  },
+  {
+    "hex": "7F1734",
+    "name": "Amaranto Escuro"
+  },
+  {
+    "hex": "FF3800",
+    "name": "Chama Ardente"
+  },
+  {
+    "hex": "F88379",
+    "name": "Salmão Doce"
+  },
+  {
+    "hex": "893F45",
+    "name": "Rosa Queimada"
+  },
+  {
+    "hex": "B31B1B",
+    "name": "Vermelho Mogno"
+  },
+  {
+    "hex": "DC143C",
+    "name": "Carmesim Clássico"
+  },
+  {
+    "hex": "8B0000",
+    "name": "Vermelho Sangue"
+  },
+  {
+    "hex": "801818",
+    "name": "Vinho Escuro"
+  },
+  {
+    "hex": "B22222",
+    "name": "Vermelho Tijolo"
+  },
+  {
+    "hex": "CE2029",
+    "name": "Bandeira Vermelha"
+  },
+  {
+    "hex": "FF004F",
+    "name": "Fúcsia Vibrante"
+  },
+  {
+    "hex": "733635",
+    "name": "Chocolate Amargo"
+  },
+  {
+    "hex": "ED2939",
+    "name": "Vermelho Morango"
+  },
+  {
+    "hex": "CD5C5C",
+    "name": "Rosa Lagosta"
+  },
+  {
+    "hex": "D05340",
+    "name": "Cobre Rosado"
+  },
+  {
+    "hex": "F08080",
+    "name": "Coral Claro"
+  },
+  {
+    "hex": "FF7F7F",
+    "name": "Toranja Rosa"
+  },
+  {
+    "hex": "A50021",
+    "name": "Vermelho Rubi"
+  },
+  {
+    "hex": "C04000",
+    "name": "Laranja Queimada"
+  },
+  {
+    "hex": "800000",
+    "name": "Bordô"
+  },
+  {
+    "hex": "FFE4E1",
+    "name": "Blush Suave"
+  },
+  {
+    "hex": "FE0000",
+    "name": "Vermelho Puro"
+  },
+  {
+    "hex": "C08081",
+    "name": "Rosa Empoeirada"
+  },
+  {
+    "hex": "841617",
+    "name": "Fruta Esmagada"
+  },
+  {
+    "hex": "990000",
+    "name": "Sangue de Boi"
+  },
+  {
+    "hex": "CC3333",
+    "name": "Geleia de Tomate"
+  },
+  {
+    "hex": "FFC0CB",
+    "name": "Rosa Pastel"
+  },
+  {
+    "hex": "DC343B",
+    "name": "Scarlet Rush"
+  },
+  {
+    "hex": "FF0000",
+    "name": "Vermelho"
+  },
+  {
+    "hex": "A52A2A",
+    "name": "Marrom Vermelho"
+  },
+  {
+    "hex": "ED1B24",
+    "name": "Vermelho de Corrida"
+  },
+  {
+    "hex": "EE204E",
+    "name": "Melancia"
+  },
+  {
+    "hex": "F2003C",
+    "name": "Batom Vermelho"
+  },
+  {
+    "hex": "C40234",
+    "name": "Carmim"
+  },
+  {
+    "hex": "ED2839",
+    "name": "Soco Vermelho"
+  },
+  {
+    "hex": "E60026",
+    "name": "Escarlate Primário"
+  },
+  {
+    "hex": "FF0080",
+    "name": "Rosa Neon"
+  },
+  {
+    "hex": "674846",
+    "name": "Ameixa de Chocolate"
+  },
+  {
+    "hex": "C21E56",
+    "name": "Pau-Rosa"
+  },
+  {
+    "hex": "905D5D",
+    "name": "Rosa Fumê"
+  },
+  {
+    "hex": "AB4E52",
+    "name": "Malva Empoeirado"
+  },
+  {
+    "hex": "65000B",
+    "name": "Cereja Preta"
+  },
+  {
+    "hex": "BC8F8F",
+    "name": "Taupe Rosado"
+  },
+  {
+    "hex": "B7410E",
+    "name": "Especiaria Enferrujada"
+  },
+  {
+    "hex": "DA2C43",
+    "name": "Framboesa"
+  },
+  {
+    "hex": "FA8072",
+    "name": "Salmão"
+  },
+  {
+    "hex": "FF91A4",
+    "name": "Algodão Doce"
+  },
+  {
+    "hex": "FF2400",
+    "name": "Fogo Escarlate"
+  },
+  {
+    "hex": "D44500",
+    "name": "Laranja Apimenta"
+  },
+  {
+    "hex": "F4C2C2",
+    "name": "Rosa de Algodão"
+  },
+  {
+    "hex": "FF6347",
+    "name": "Tomate"
+  },
+  {
+    "hex": "A91101",
+    "name": "Inferno"
+  },
+  {
+    "hex": "E34234",
+    "name": "Cinábrio"
+  },
+  {
+    "hex": "722F37",
+    "name": "Ameixa de Vinho"
+  },
+  {
+    "hex": "FF4F00",
+    "name": "Laranja Chama"
+  },
+  {
+    "hex": "C46210",
+    "name": "Caramelo Queimado"
+  },
+  {
+    "hex": "FFBF00",
+    "name": "Âmbar Dourado"
+  },
+  {
+    "hex": "FBCEB1",
+    "name": "Penugem de Pêssego"
+  },
+  {
+    "hex": "FF9966",
+    "name": "Sonho de Tangerina"
+  },
+  {
+    "hex": "964B00",
+    "name": "Marrom Chocolate"
+  },
+  {
+    "hex": "BF5700",
+    "name": "Brasas de Outono"
+  },
+  {
+    "hex": "E09540",
+    "name": "Damasco Dourado"
+  },
+  {
+    "hex": "ED9121",
+    "name": "Cenoura Laranja"
+  },
+  {
+    "hex": "F7E7CE",
+    "name": "Névoa de Champanhe"
+  },
+  {
+    "hex": "FF7F50",
+    "name": "Brilho Coral"
+  },
+  {
+    "hex": "FF8C00",
+    "name": "Laranja Escuro"
+  },
+  {
+    "hex": "EDC9AF",
+    "name": "Areia do Deserto"
+  },
+  {
+    "hex": "BA160C",
+    "name": "Brasa de Tijolo"
+  },
+  {
+    "hex": "E25822",
+    "name": "Páprica Picante"
+  },
+  {
+    "hex": "FE5A1D",
+    "name": "Chama do Tigre"
+  },
+  {
+    "hex": "FFD700",
+    "name": "Ouro"
+  },
+  {
+    "hex": "F04A00",
+    "name": "Laranja Derretida"
+  },
+  {
+    "hex": "DAA520",
+    "name": "Vara-de-Ouro"
+  },
+  {
+    "hex": "E8AC41",
+    "name": "Bronze Mel"
+  },
+  {
+    "hex": "FED8B1",
+    "name": "Damasco Macio"
+  },
+  {
+    "hex": "FF7538",
+    "name": "Tangerina Atômica"
+  },
+  {
+    "hex": "FF5800",
+    "name": "Laranja Vibrante"
+  },
+  {
+    "hex": "FFA000",
+    "name": "Brilho Âmbar"
+  },
+  {
+    "hex": "FFA500",
+    "name": "Laranja"
+  },
+  {
+    "hex": "FF8000",
+    "name": "Tangerina Vibrante"
+  },
+  {
+    "hex": "FFEFD5",
+    "name": "Batom de Mamão"
+  },
+  {
+    "hex": "FFE5B4",
+    "name": "Damasco Claro"
+  },
+  {
+    "hex": "D99058",
+    "name": "Amêndoa Torrada"
+  },
+  {
+    "hex": "EC5800",
+    "name": "Vermelho Caiena"
+  },
+  {
+    "hex": "FF8F00",
+    "name": "Açafrão Profundo"
+  },
+  {
+    "hex": "FF7518",
+    "name": "Especiarias de Abóbora"
+  },
+  {
+    "hex": "FF7900",
+    "name": "Laranja da Colheita"
+  },
+  {
+    "hex": "F4C430",
+    "name": "Açafrão"
+  },
+  {
+    "hex": "E86100",
+    "name": "Folha de Outono"
+  },
+  {
+    "hex": "F94D00",
+    "name": "Cenoura Carmesim"
+  },
+  {
+    "hex": "F28500",
+    "name": "Laranja Tigre"
+  },
+  {
+    "hex": "CD5700",
+    "name": "Especiaria de Bronze"
+  },
+  {
+    "hex": "B56917",
+    "name": "Cobre"
+  },
+  {
+    "hex": "FF8200",
+    "name": "Laranja de Princeton"
+  },
+  {
+    "hex": "F1B42F",
+    "name": "Ouro Girassol"
+  },
+  {
+    "hex": "EFDECD",
+    "name": "Creme de Amêndoas"
+  },
+  {
+    "hex": "9F8170",
+    "name": "Taupe Empoeirado"
+  },
+  {
+    "hex": "F5F5DC",
+    "name": "Bege"
+  },
+  {
+    "hex": "3D2B1F",
+    "name": "Café Escuro"
+  },
+  {
+    "hex": "3D0C02",
+    "name": "Mogno Rico"
+  },
+  {
+    "hex": "3B3C36",
+    "name": "Marrom Carvão"
+  },
+  {
+    "hex": "79443B",
+    "name": "Solo Argiloso"
+  },
+  {
+    "hex": "E3DAC9",
+    "name": "Osso"
+  },
+  {
+    "hex": "CD7F32",
+    "name": "Bronze"
+  },
+  {
+    "hex": "993300",
+    "name": "Marrom Ferrugem"
+  },
+  {
+    "hex": "AF6E4D",
+    "name": "Madeira de Canela"
+  },
+  {
+    "hex": "DAA06D",
+    "name": "Bronze Claro"
+  },
+  {
+    "hex": "E97451",
+    "name": "Pêssego Queimado"
+  },
+  {
+    "hex": "8A3324",
+    "name": "Castanha"
+  },
+  {
+    "hex": "C19A6B",
+    "name": "Camelo"
+  },
+  {
+    "hex": "592720",
+    "name": "Espresso"
+  },
+  {
+    "hex": "CC7F3B",
+    "name": "Castanha Dourada"
+  },
+  {
+    "hex": "A0785A",
+    "name": "Cobre Desbotado"
+  },
+  {
+    "hex": "954535",
+    "name": "Castanho Avermelhado"
+  },
+  {
+    "hex": "7B3F00",
+    "name": "Umber Natural"
+  },
+  {
+    "hex": "DDD06A",
+    "name": "Areia Dourada"
+  },
+  {
+    "hex": "D2691E",
+    "name": "Chocolate"
+  },
+  {
+    "hex": "6F4E37",
+    "name": "Grão de Café"
+  },
+  {
+    "hex": "B87333",
+    "name": "Cobre"
+  },
+  {
+    "hex": "81613E",
+    "name": "Madeira de Oliveira"
+  },
+  {
+    "hex": "4A412A",
+    "name": "Cáqui Escuro"
+  },
+  {
+    "hex": "DAC8AE",
+    "name": "Carvalho Claro"
+  },
+  {
+    "hex": "E1A95F",
+    "name": "Argila Iluminada Pelo Sol"
+  },
+  {
+    "hex": "C2B280",
+    "name": "Areia"
+  },
+  {
+    "hex": "E5AA70",
+    "name": "Caramelo Claro"
+  },
+  {
+    "hex": "6C541E",
+    "name": "Casca de Oliveira"
+  },
+  {
+    "hex": "E48400",
+    "name": "Terra Âmbar"
+  },
+  {
+    "hex": "996515",
+    "name": "Terra Dourada"
+  },
+  {
+    "hex": "DA9100",
+    "name": "Colheita Dourada"
+  },
+  {
+    "hex": "C3B091",
+    "name": "Cáqui Bege"
+  },
+  {
+    "hex": "6B4423",
+    "name": "Casca Marrom"
+  },
+  {
+    "hex": "674C47",
+    "name": "Casca Malva"
+  },
+  {
+    "hex": "CC7722",
+    "name": "Ocre"
+  },
+  {
+    "hex": "926644",
+    "name": "Marrom Caramelo"
+  },
+  {
+    "hex": "A45A52",
+    "name": "Argila Terracota"
+  },
+  {
+    "hex": "A81C07",
+    "name": "Ferro Oxidado"
+  },
+  {
+    "hex": "80461B",
+    "name": "Marrom-Sela"
+  },
+  {
+    "hex": "F4A460",
+    "name": "Sandy Brown"
+  },
+  {
+    "hex": "CBA135",
+    "name": "Bronze Dourado"
+  },
+  {
+    "hex": "59260B",
+    "name": "Nogueira Escura"
+  },
+  {
+    "hex": "704214",
+    "name": "Noz"
+  },
+  {
+    "hex": "882D17",
+    "name": "Conhaque"
+  },
+  {
+    "hex": "CB410B",
+    "name": "Ocre Vermelho"
+  },
+  {
+    "hex": "D2B48C",
+    "name": "Bronzeado"
+  },
+  {
+    "hex": "483C32",
+    "name": "Taupe"
+  },
+  {
+    "hex": "635147",
+    "name": "Castanho Acinzentado"
+  },
+  {
+    "hex": "44362F",
+    "name": "Mocha Profundo"
+  },
+  {
+    "hex": "5C5248",
+    "name": "Marrom-Pedra"
+  },
+  {
+    "hex": "645452",
+    "name": "Cinza Taupe"
+  },
+  {
+    "hex": "F5DEB3",
+    "name": "Trigo"
+  },
+  {
+    "hex": "E9D66B",
+    "name": "Ouro de Palha"
+  },
+  {
+    "hex": "FDEE00",
+    "name": "Limão Brilhante"
+  },
+  {
+    "hex": "E0AB76",
+    "name": "Argila Arenosa"
+  },
+  {
+    "hex": "FFEF00",
+    "name": "Amarelo Raio de Sol"
+  },
+  {
+    "hex": "DFFF00",
+    "name": "Amarelo Lima"
+  },
+  {
+    "hex": "E4D00A",
+    "name": "Brilho Dourado"
+  },
+  {
+    "hex": "FFF8E7",
+    "name": "Névoa de Marfim"
+  },
+  {
+    "hex": "FFFDD0",
+    "name": "Creme"
+  },
+  {
+    "hex": "B8860B",
+    "name": "Vara de Ouro Escura"
+  },
+  {
+    "hex": "CDB280",
+    "name": "Bege Suave"
+  },
+  {
+    "hex": "EEDC82",
+    "name": "Ouro Claro"
+  },
+  {
+    "hex": "EF9B0F",
+    "name": "Laranja Dourada"
+  },
+  {
+    "hex": "D4AF37",
+    "name": "Ouro Metálico"
+  },
+  {
+    "hex": "E6A817",
+    "name": "Mel de Âmbar"
+  },
+  {
+    "hex": "FCF75E",
+    "name": "Amarelo Canário"
+  },
+  {
+    "hex": "FFFFF0",
+    "name": "Marfim"
+  },
+  {
+    "hex": "F8DE7E",
+    "name": "Jasmim"
+  },
+  {
+    "hex": "FACA16",
+    "name": "Âmbar Brilhante"
+  },
+  {
+    "hex": "FFFACD",
+    "name": "Chiffon de Limão"
+  },
+  {
+    "hex": "E3FF00",
+    "name": "Verde-Limão Neon"
+  },
+  {
+    "hex": "FFFFE0",
+    "name": "Amarelo Claro"
+  },
+  {
+    "hex": "FBEC5D",
+    "name": "Creme de Banana"
+  },
+  {
+    "hex": "FFC40C",
+    "name": "Ônibus Escolar Amarelo"
+  },
+  {
+    "hex": "E3F988",
+    "name": "Creme de Lima"
+  },
+  {
+    "hex": "FFDB58",
+    "name": "Mostarda"
+  },
+  {
+    "hex": "FADA5E",
+    "name": "Ouro Real"
+  },
+  {
+    "hex": "FFDEAD",
+    "name": "Branco Navajo"
+  },
+  {
+    "hex": "CFB53B",
+    "name": "Ouro Velho"
+  },
+  {
+    "hex": "808000",
+    "name": "Azeitona"
+  },
+  {
+    "hex": "FADFAD",
+    "name": "Pêssego Macio"
+  },
+  {
+    "hex": "D1E231",
+    "name": "Limão E Lima"
+  },
+  {
+    "hex": "F4C431",
+    "name": "Sol da Toscana"
+  },
+  {
+    "hex": "FFD800",
+    "name": "Ouro Brilhante"
+  },
+  {
+    "hex": "FFBA00",
+    "name": "Chama Âmbar"
+  },
+  {
+    "hex": "E4D96F",
+    "name": "Âmbar Pálido"
+  },
+  {
+    "hex": "FFCC33",
+    "name": "Pólen Dourado"
+  },
+  {
+    "hex": "FAD6A5",
+    "name": "Creme de Damasco"
+  },
+  {
+    "hex": "F3E5AB",
+    "name": "Creme de Baunilha"
+  },
+  {
+    "hex": "FFFF00",
+    "name": "Amarelo"
+  },
+  {
+    "hex": "8DB600",
+    "name": "Musgo de Limão"
+  },
+  {
+    "hex": "00FFBF",
+    "name": "Hortelã Tropical"
+  },
+  {
+    "hex": "7BA05B",
+    "name": "Verde Sálvia"
+  },
+  {
+    "hex": "568203",
+    "name": "Musgo da Floresta"
+  },
+  {
+    "hex": "66FF00",
+    "name": "Grama Neon"
+  },
+  {
+    "hex": "004225",
+    "name": "Floresta Profunda"
+  },
+  {
+    "hex": "1B4D3E",
+    "name": "Pinheiro Teal"
+  },
+  {
+    "hex": "1E4D2B",
+    "name": "Abeto Escuro"
+  },
+  {
+    "hex": "00563B",
+    "name": "Profundezas Esmeralda"
+  },
+  {
+    "hex": "ACE1AF",
+    "name": "Celadon"
+  },
+  {
+    "hex": "80FF00",
+    "name": "Lima Flash"
+  },
+  {
+    "hex": "00FFFF",
+    "name": "Ciano"
+  },
+  {
+    "hex": "013220",
+    "name": "Sempre-Verde"
+  },
+  {
+    "hex": "4A5D23",
+    "name": "Folha de Oliveira"
+  },
+  {
+    "hex": "03C03C",
+    "name": "Verde Jade"
+  },
+  {
+    "hex": "177245",
+    "name": "Gramado"
+  },
+  {
+    "hex": "00693E",
+    "name": "Verde Esmeralda Escuro"
+  },
+  {
+    "hex": "50C878",
+    "name": "Esmeralda"
+  },
+  {
+    "hex": "00FF40",
+    "name": "Verde Elétrico"
+  },
+  {
+    "hex": "4F7942",
+    "name": "Samambaia"
+  },
+  {
+    "hex": "228B22",
+    "name": "Verde Floresta"
+  },
+  {
+    "hex": "00FF00",
+    "name": "Lima"
+  },
+  {
+    "hex": "ADFF2F",
+    "name": "Verde Amarelo"
+  },
+  {
+    "hex": "3FFF00",
+    "name": "Laser de Mola"
+  },
+  {
+    "hex": "F0FFF0",
+    "name": "Melada"
+  },
+  {
+    "hex": "49796B",
+    "name": "Azul-Petróleo Escuro"
+  },
+  {
+    "hex": "355E3B",
+    "name": "Verde Caçador"
+  },
+  {
+    "hex": "138808",
+    "name": "Índia Verde"
+  },
+  {
+    "hex": "00A86B",
+    "name": "Verde Selva"
+  },
+  {
+    "hex": "29AB87",
+    "name": "Alga"
+  },
+  {
+    "hex": "4CBB17",
+    "name": "Samambaia Brilhante"
+  },
+  {
+    "hex": "7CFC00",
+    "name": "Gramado Verde"
+  },
+  {
+    "hex": "90EE90",
+    "name": "Verde Claro"
+  },
+  {
+    "hex": "C0FF00",
+    "name": "Chartreuse"
+  },
+  {
+    "hex": "32CD32",
+    "name": "Verde Limão"
+  },
+  {
+    "hex": "0BDA51",
+    "name": "Malaquita"
+  },
+  {
+    "hex": "74C365",
+    "name": "Verde Musgo"
+  },
+  {
+    "hex": "004953",
+    "name": "Verde-Azulado Escuro"
+  },
+  {
+    "hex": "3EB489",
+    "name": "Folha de Hortelã"
+  },
+  {
+    "hex": "8A9A5B",
+    "name": "Folha de Palmeira"
+  },
+  {
+    "hex": "317873",
+    "name": "Azul Pinheiro"
+  },
+  {
+    "hex": "39FF14",
+    "name": "Verde Laser"
+  },
+  {
+    "hex": "008000",
+    "name": "Verde"
+  },
+  {
+    "hex": "9AB973",
+    "name": "Oliva Suave"
+  },
+  {
+    "hex": "00401A",
+    "name": "Floresta Negra"
+  },
+  {
+    "hex": "00A693",
+    "name": "Verdegris"
+  },
+  {
+    "hex": "00A550",
+    "name": "Selva Média"
+  },
+  {
+    "hex": "01796F",
+    "name": "Abeto Azul"
+  },
+  {
+    "hex": "93C572",
+    "name": "Verde Salgueiro"
+  },
+  {
+    "hex": "6C7C59",
+    "name": "Oliva Empoeirada"
+  },
+  {
+    "hex": "00CCCC",
+    "name": "Ciano Forte"
+  },
+  {
+    "hex": "BCB88A",
+    "name": "Sálvia Seca"
+  },
+  {
+    "hex": "76FF7A",
+    "name": "Brilho de Menta"
+  },
+  {
+    "hex": "2E8B57",
+    "name": "Verde-Mar"
+  },
+  {
+    "hex": "55DD33",
+    "name": "Grama Radioativa"
+  },
+  {
+    "hex": "009E60",
+    "name": "Trevo"
+  },
+  {
+    "hex": "A7FC00",
+    "name": "Lima Slime"
+  },
+  {
+    "hex": "00FF7F",
+    "name": "Verde Primavera"
+  },
+  {
+    "hex": "D0F0C0",
+    "name": "Chá Verde"
+  },
+  {
+    "hex": "008080",
+    "name": "Cerceta"
+  },
+  {
+    "hex": "40E0D0",
+    "name": "Turquesa"
+  },
+  {
+    "hex": "40826D",
+    "name": "Verde-Azulado da Selva"
+  },
+  {
+    "hex": "9ACD32",
+    "name": "Verde-Amarelo"
+  },
+  {
+    "hex": "F0F8FF",
+    "name": "Alice Azul"
+  },
+  {
+    "hex": "0FFFFF",
+    "name": "Brilho Ciano"
+  },
+  {
+    "hex": "7FFFD4",
+    "name": "Água-Marinha"
+  },
+  {
+    "hex": "007FFF",
+    "name": "Azul Celeste"
+  },
+  {
+    "hex": "F0FFFF",
+    "name": "Névoa Azul"
+  },
+  {
+    "hex": "0D98BA",
+    "name": "Azul Esverdeado"
+  },
+  {
+    "hex": "00BFFF",
+    "name": "Azul Profundo do Céu"
+  },
+  {
+    "hex": "006D6F",
+    "name": "Verde-Azulado Tempestuoso"
+  },
+  {
+    "hex": "B2FFFF",
+    "name": "Água Gelada"
+  },
+  {
+    "hex": "007BA7",
+    "name": "Cerúleo"
+  },
+  {
+    "hex": "008B8B",
+    "name": "Ciano Escuro"
+  },
+  {
+    "hex": "7DF9FF",
+    "name": "Água Elétrica"
+  },
+  {
+    "hex": "15F4EE",
+    "name": "Gelo Neon"
+  },
+  {
+    "hex": "3AB09E",
+    "name": "Névoa do Oceano"
+  },
+  {
+    "hex": "99FFFF",
+    "name": "Ciano Suave"
+  },
+  {
+    "hex": "E0FFFF",
+    "name": "Ciano Claro"
+  },
+  {
+    "hex": "20B2AA",
+    "name": "Verde-Mar Claro"
+  },
+  {
+    "hex": "DFFFFD",
+    "name": "Água Congelada"
+  },
+  {
+    "hex": "3AA8C1",
+    "name": "Azul Pacífico"
+  },
+  {
+    "hex": "1CA9C9",
+    "name": "Ondas Turquesa"
+  },
+  {
+    "hex": "00B7EB",
+    "name": "Céu Claro"
+  },
+  {
+    "hex": "007A74",
+    "name": "Oceano Profundo"
+  },
+  {
+    "hex": "81D8D0",
+    "name": "Água Pérola"
+  },
+  {
+    "hex": "43B3AE",
+    "name": "Azul-Petróleo Tropical"
+  },
+  {
+    "hex": "00CCFF",
+    "name": "Céu Aqua"
+  },
+  {
+    "hex": "39A78D",
+    "name": "Ervas Marinhas"
+  },
+  {
+    "hex": "00B9E8",
+    "name": "Sky Surge"
+  },
+  {
+    "hex": "5D8AA8",
+    "name": "Azul da Força Aérea"
+  },
+  {
+    "hex": "72A0C1",
+    "name": "Azul Aço"
+  },
+  {
+    "hex": "6CB4EE",
+    "name": "Céu Fresco"
+  },
+  {
+    "hex": "0070BB",
+    "name": "Marinho Brilhante"
+  },
+  {
+    "hex": "89CFF0",
+    "name": "Azul Bebê"
+  },
+  {
+    "hex": "003262",
+    "name": "Marinha de Oxford"
+  },
+  {
+    "hex": "2072AF",
+    "name": "Oceano de Centáurea"
+  },
+  {
+    "hex": "318CE7",
+    "name": "Azul Brilhante"
+  },
+  {
+    "hex": "0000FF",
+    "name": "Azul"
+  },
+  {
+    "hex": "6699CC",
+    "name": "Azul Acinzentado"
+  },
+  {
+    "hex": "0095B6",
+    "name": "Bondi Blue"
+  },
+  {
+    "hex": "0070FF",
+    "name": "Azul Digital"
+  },
+  {
+    "hex": "3457D5",
+    "name": "Azul Real"
+  },
+  {
+    "hex": "85B09A",
+    "name": "Azul-Petróleo Suave"
+  },
+  {
+    "hex": "7BAFD4",
+    "name": "Reflexo do Céu"
+  },
+  {
+    "hex": "4997D0",
+    "name": "Sino Azul"
+  },
+  {
+    "hex": "246ABC",
+    "name": "Céu de Safira"
+  },
+  {
+    "hex": "468FEA",
+    "name": "Energia Azul"
+  },
+  {
+    "hex": "3B00DB",
+    "name": "Azul Ultrassônico"
+  },
+  {
+    "hex": "0047AB",
+    "name": "Azul Cobalto"
+  },
+  {
+    "hex": "B9D9EB",
+    "name": "Céu Pálido"
+  },
+  {
+    "hex": "6495ED",
+    "name": "Azul Centáurea"
+  },
+  {
+    "hex": "1F75FE",
+    "name": "Azul Crayola"
+  },
+  {
+    "hex": "0000B8",
+    "name": "Azul Verdadeiro"
+  },
+  {
+    "hex": "1F305E",
+    "name": "Crepúsculo Índigo"
+  },
+  {
+    "hex": "1560BD",
+    "name": "Azul Tecnológico"
+  },
+  {
+    "hex": "1E90FF",
+    "name": "Azul Dodger"
+  },
+  {
+    "hex": "00009C",
+    "name": "Marinha Elétrica"
+  },
+  {
+    "hex": "1034A6",
+    "name": "Azul Egípcio"
+  },
+  {
+    "hex": "16166B",
+    "name": "Crepúsculo Profundo"
+  },
+  {
+    "hex": "6082B6",
+    "name": "Glauco"
+  },
+  {
+    "hex": "1164B4",
+    "name": "Profundezas do Oceano"
+  },
+  {
+    "hex": "6F00FF",
+    "name": "Índigo Elétrico"
+  },
+  {
+    "hex": "0072BB",
+    "name": "Azul do Twitter"
+  },
+  {
+    "hex": "4B0082",
+    "name": "Índigo"
+  },
+  {
+    "hex": "00416A",
+    "name": "Azul Yale"
+  },
+  {
+    "hex": "002FA7",
+    "name": "Azul Klein Internacional"
+  },
+  {
+    "hex": "8AB9F1",
+    "name": "Gelo Azul Bebê"
+  },
+  {
+    "hex": "26619C",
+    "name": "Azul Báltico"
+  },
+  {
+    "hex": "ADD8E6",
+    "name": "Azul Claro"
+  },
+  {
+    "hex": "87CEFA",
+    "name": "Azul Celeste"
+  },
+  {
+    "hex": "6050DC",
+    "name": "Azul Majorelle"
+  },
+  {
+    "hex": "2B4593",
+    "name": "Azul Francês"
+  },
+  {
+    "hex": "73C2FB",
+    "name": "Azul Maia"
+  },
+  {
+    "hex": "0000CD",
+    "name": "Azul Médio"
+  },
+  {
+    "hex": "7B68EE",
+    "name": "Azul Ardósia Médio"
+  },
+  {
+    "hex": "191970",
+    "name": "Azul Meia-Noite"
+  },
+  {
+    "hex": "0093AF",
+    "name": "Ciano do Pacífico"
+  },
+  {
+    "hex": "000080",
+    "name": "Marinha"
+  },
+  {
+    "hex": "0087BD",
+    "name": "Azul Oceano"
+  },
+  {
+    "hex": "4666FF",
+    "name": "Safira Elétrica"
+  },
+  {
+    "hex": "002147",
+    "name": "Azul da Prússia"
+  },
+  {
+    "hex": "273BE2",
+    "name": "Azul Índigo Brilhante"
+  },
+  {
+    "hex": "87D3F8",
+    "name": "Lago Congelado"
+  },
+  {
+    "hex": "011F5B",
+    "name": "Marinha Profunda"
+  },
+  {
+    "hex": "CCCCFF",
+    "name": "Vinca"
+  },
+  {
+    "hex": "1C39BB",
+    "name": "Azul Persa"
+  },
+  {
+    "hex": "000F89",
+    "name": "Realeza Elétrica"
+  },
+  {
+    "hex": "45B1E8",
+    "name": "Céu Fresco"
+  },
+  {
+    "hex": "224C98",
+    "name": "Aço Azul"
+  },
+  {
+    "hex": "9EB9D4",
+    "name": "Azul Pó"
+  },
+  {
+    "hex": "003153",
+    "name": "Azul do Espaço Profundo"
+  },
+  {
+    "hex": "002387",
+    "name": "Cobalto Verdadeiro"
+  },
+  {
+    "hex": "2454FF",
+    "name": "Azul de Espectro Total"
+  },
+  {
+    "hex": "4169E1",
+    "name": "Azul Royal"
+  },
+  {
+    "hex": "002366",
+    "name": "Azul Imperial"
+  },
+  {
+    "hex": "76ABDF",
+    "name": "Horizonte Frio"
+  },
+  {
+    "hex": "0F52BA",
+    "name": "Safira"
+  },
+  {
+    "hex": "0076B6",
+    "name": "Azul Turquesa Brilhante"
+  },
+  {
+    "hex": "4B61D1",
+    "name": "Ardósia Índigo"
+  },
+  {
+    "hex": "5D89BA",
+    "name": "Jeans Empoeirado"
+  },
+  {
+    "hex": "87CEEB",
+    "name": "Azul Celeste (claro)"
+  },
+  {
+    "hex": "1E2952",
+    "name": "Espaço Índigo"
+  },
+  {
+    "hex": "4682B4",
+    "name": "Azul Aço"
+  },
+  {
+    "hex": "0059CF",
+    "name": "Azul Laser"
+  },
+  {
+    "hex": "2D68C4",
+    "name": "Azul Inteligente"
+  },
+  {
+    "hex": "3E8EDE",
+    "name": "Oceano Brilhante"
+  },
+  {
+    "hex": "2774AE",
+    "name": "Azul-Celeste Intenso"
+  },
+  {
+    "hex": "120A8F",
+    "name": "Azul Ultramarino Escuro"
+  },
+  {
+    "hex": "4B92DB",
+    "name": "Céu Nublado"
+  },
+  {
+    "hex": "AFDBF5",
+    "name": "Azul Gelo"
+  },
+  {
+    "hex": "324AB2",
+    "name": "Crepúsculo No Oceano"
+  },
+  {
+    "hex": "7C9ED9",
+    "name": "Azul Glicínia"
+  },
+  {
+    "hex": "00356B",
+    "name": "Marinha Real"
+  },
+  {
+    "hex": "2E5090",
+    "name": "Azul Crepúsculo"
+  },
+  {
+    "hex": "0014A8",
+    "name": "Realeza Vívida"
+  },
+  {
+    "hex": "B284BE",
+    "name": "Fumaça Ametista"
+  },
+  {
+    "hex": "9966CC",
+    "name": "Roxo Lavanda"
+  },
+  {
+    "hex": "8A2BE2",
+    "name": "Violeta Azul"
+  },
+  {
+    "hex": "702963",
+    "name": "Ameixa Real"
+  },
+  {
+    "hex": "856088",
+    "name": "Lavanda Empoeirada"
+  },
+  {
+    "hex": "301934",
+    "name": "Violeta da Meia-Noite"
+  },
+  {
+    "hex": "9400D3",
+    "name": "Violeta Escuro"
+  },
+  {
+    "hex": "614051",
+    "name": "Sombra Malva"
+  },
+  {
+    "hex": "BF00FF",
+    "name": "Hiper Magenta"
+  },
+  {
+    "hex": "8F00FF",
+    "name": "Raio Violeta"
+  },
+  {
+    "hex": "563C5C",
+    "name": "Uva Vintage"
+  },
+  {
+    "hex": "6C3082",
+    "name": "Orquídea de Veludo"
+  },
+  {
+    "hex": "F2C1D1",
+    "name": "Pétala Pastel"
+  },
+  {
+    "hex": "B53389",
+    "name": "Framboesa E Ameixa"
+  },
+  {
+    "hex": "D473D4",
+    "name": "Névoa de Orquídea"
+  },
+  {
+    "hex": "8806CE",
+    "name": "Violeta Real"
+  },
+  {
+    "hex": "FF00FF",
+    "name": "Magenta"
+  },
+  {
+    "hex": "6F2DA8",
+    "name": "Flor Índigo"
+  },
+  {
+    "hex": "DF73FF",
+    "name": "Mágica Malva"
+  },
+  {
+    "hex": "5A4FCF",
+    "name": "Crepúsculo Violeta"
+  },
+  {
+    "hex": "5B3256",
+    "name": "Creme de Amora"
+  },
+  {
+    "hex": "FFF0F5",
+    "name": "Blush Lavanda"
+  },
+  {
+    "hex": "B57EDC",
+    "name": "Lavanda Brilhante"
+  },
+  {
+    "hex": "E6E6FA",
+    "name": "Lavanda"
+  },
+  {
+    "hex": "C8A2C8",
+    "name": "Lilás"
+  },
+  {
+    "hex": "880085",
+    "name": "Magenta Escuro"
+  },
+  {
+    "hex": "E0B0FF",
+    "name": "Malva"
+  },
+  {
+    "hex": "8D029B",
+    "name": "Orquídea Real"
+  },
+  {
+    "hex": "997A8D",
+    "name": "Malva Empoeirado"
+  },
+  {
+    "hex": "C54B8C",
+    "name": "Ameixa Fúcsia"
+  },
+  {
+    "hex": "8B004B",
+    "name": "Framboesa Escura"
+  },
+  {
+    "hex": "DA70D6",
+    "name": "Orquídea"
+  },
+  {
+    "hex": "682860",
+    "name": "Roxo Profundo"
+  },
+  {
+    "hex": "FAE6FA",
+    "name": "Véu de Lavanda"
+  },
+  {
+    "hex": "32127A",
+    "name": "Tinta Índigo"
+  },
+  {
+    "hex": "DF00FF",
+    "name": "Violeta Neon"
+  },
+  {
+    "hex": "DBB2D1",
+    "name": "Orquídea Rosa"
+  },
+  {
+    "hex": "DDA0DD",
+    "name": "Ameixa"
+  },
+  {
+    "hex": "86608E",
+    "name": "Lavanda Vintage"
+  },
+  {
+    "hex": "CC8899",
+    "name": "Rosa Velha"
+  },
+  {
+    "hex": "800080",
+    "name": "Roxo"
+  },
+  {
+    "hex": "9A4EAE",
+    "name": "Ametista"
+  },
+  {
+    "hex": "663399",
+    "name": "Rebecca Purple"
+  },
+  {
+    "hex": "7851A9",
+    "name": "Lilás Profundo"
+  },
+  {
+    "hex": "C71585",
+    "name": "Vermelho Violeta Médio"
+  },
+  {
+    "hex": "32174D",
+    "name": "Ametista Escura"
+  },
+  {
+    "hex": "6A5ACD",
+    "name": "Azul Ardósia"
+  },
+  {
+    "hex": "CC33CC",
+    "name": "Orquídea Vívida"
+  },
+  {
+    "hex": "512888",
+    "name": "Veludo Índigo"
+  },
+  {
+    "hex": "D8BFD8",
+    "name": "Cardo"
+  },
+  {
+    "hex": "9683EC",
+    "name": "Vinca Suave"
+  },
+  {
+    "hex": "66023C",
+    "name": "Violeta Carmesim"
+  },
+  {
+    "hex": "645394",
+    "name": "Uva Empoeirada"
+  },
+  {
+    "hex": "A020F0",
+    "name": "Roxo (x11)"
+  },
+  {
+    "hex": "8000FF",
+    "name": "Ultravioleta"
+  },
+  {
+    "hex": "C9A0DC",
+    "name": "Glicínia"
+  },
+  {
+    "hex": "E52B50",
+    "name": "Amaranto"
+  },
+  {
+    "hex": "FF91AF",
+    "name": "Algodão Doce"
+  },
+  {
+    "hex": "8B008B",
+    "name": "Magenta Escuro"
+  },
+  {
+    "hex": "683068",
+    "name": "Roxo Aveludado"
+  },
+  {
+    "hex": "FF1DCE",
+    "name": "Fúcsia Neon"
+  },
+  {
+    "hex": "CA1F7B",
+    "name": "Rosa Quente"
+  },
+  {
+    "hex": "FF0090",
+    "name": "Rosa Barbie"
+  },
+  {
+    "hex": "F653A6",
+    "name": "Rosa Escuro"
+  },
+  {
+    "hex": "D0417E",
+    "name": "Ponche de Rosas"
+  },
+  {
+    "hex": "9F4576",
+    "name": "Rosa de Frutas Vermelhas"
+  },
+  {
+    "hex": "8E4585",
+    "name": "Refrigerante de Uva"
+  },
+  {
+    "hex": "FE4EDA",
+    "name": "Flor de Algodão"
+  },
+  {
+    "hex": "8E3A59",
+    "name": "Fruta Vintage"
+  },
+  {
+    "hex": "E30B5C",
+    "name": "Vermelho Framboesa"
+  },
+  {
+    "hex": "FF33CC",
+    "name": "Fúcsia Pop"
+  },
+  {
+    "hex": "FF66CC",
+    "name": "Chiclete Efervescente"
+  },
+  {
+    "hex": "AA98A9",
+    "name": "Cinza Lilás"
+  },
+  {
+    "hex": "FC0FC0",
+    "name": "Rosa Choque"
+  },
+  {
+    "hex": "FF6FFF",
+    "name": "Peônia Brilhante"
+  },
+  {
+    "hex": "CF71AF",
+    "name": "Rosa Pétala"
+  },
+  {
+    "hex": "CF3476",
+    "name": "Frutas Vermelhas Picantes"
+  },
+  {
+    "hex": "EE82EE",
+    "name": "Violeta"
+  },
+  {
+    "hex": "F19CBB",
+    "name": "Névoa Rosa"
+  },
+  {
+    "hex": "DE5D83",
+    "name": "Rosa Blush"
+  },
+  {
+    "hex": "FFA6C9",
+    "name": "Rosa Bebê"
+  },
+  {
+    "hex": "F1DDCF",
+    "name": "Pétala de Pó"
+  },
+  {
+    "hex": "FFB7C5",
+    "name": "Flor de Cerejeira"
+  },
+  {
+    "hex": "A8516E",
+    "name": "Pau-Rosa"
+  },
+  {
+    "hex": "F56FA1",
+    "name": "Beijo de Rosa"
+  },
+  {
+    "hex": "FF1493",
+    "name": "Rosa Escuro"
+  },
+  {
+    "hex": "D71868",
+    "name": "Batom Cor de Amora"
+  },
+  {
+    "hex": "F64A8A",
+    "name": "Morango Silvestre"
+  },
+  {
+    "hex": "C74375",
+    "name": "Vinho Rosé"
+  },
+  {
+    "hex": "F400A1",
+    "name": "Rosa Elétrica"
+  },
+  {
+    "hex": "FF00CC",
+    "name": "Rosa Neon"
+  },
+  {
+    "hex": "FF69B4",
+    "name": "Rosa Choque"
+  },
+  {
+    "hex": "FBAED2",
+    "name": "Blush Pop"
+  },
+  {
+    "hex": "E4007C",
+    "name": "Chama Fúcsia"
+  },
+  {
+    "hex": "FFDAE9",
+    "name": "Geada de Pétalas"
+  },
+  {
+    "hex": "F2BDCD",
+    "name": "Flor Suave"
+  },
+  {
+    "hex": "EDCDC2",
+    "name": "Seda de Amêndoa"
+  },
+  {
+    "hex": "FFCBA4",
+    "name": "Brilho de Pêssego"
+  },
+  {
+    "hex": "FE28A2",
+    "name": "Rosa Brilhante"
+  },
+  {
+    "hex": "F77FBE",
+    "name": "Cravo Rosa"
+  },
+  {
+    "hex": "ED7A9B",
+    "name": "Pétala Vermelha"
+  },
+  {
+    "hex": "E3256B",
+    "name": "Razzmatazz"
+  },
+  {
+    "hex": "B3446C",
+    "name": "Esmagamento de Frutas Vermelhas"
+  },
+  {
+    "hex": "F9429E",
+    "name": "Pitaya"
+  },
+  {
+    "hex": "FFF5EE",
+    "name": "Concha do Mar"
+  },
+  {
+    "hex": "FC89AC",
+    "name": "Cor de Chiclete"
+  },
+  {
+    "hex": "DE6FA1",
+    "name": "Doce Peônia"
+  },
+  {
+    "hex": "EDEAE0",
+    "name": "Linho Macio"
+  },
+  {
+    "hex": "F2F3F4",
+    "name": "Platina"
+  },
+  {
+    "hex": "FAEBD7",
+    "name": "Branco Antigo"
+  },
+  {
+    "hex": "FEFEFA",
+    "name": "Porcelana"
+  },
+  {
+    "hex": "FFF8DC",
+    "name": "Cabelo de Milho"
+  },
+  {
+    "hex": "EFDFBB",
+    "name": "Bege Pérola"
+  },
+  {
+    "hex": "F0EAD6",
+    "name": "Casca de Ovo"
+  },
+  {
+    "hex": "FFFAF0",
+    "name": "Branco Floral"
+  },
+  {
+    "hex": "F8F8FF",
+    "name": "Branco Fantasma"
+  },
+  {
+    "hex": "F4F0EC",
+    "name": "Pergaminho"
+  },
+  {
+    "hex": "FAF0E6",
+    "name": "Linho"
+  },
+  {
+    "hex": "F8F4FF",
+    "name": "Névoa de Lavanda"
+  },
+  {
+    "hex": "F5FFFA",
+    "name": "Creme de Menta"
+  },
+  {
+    "hex": "E9FFDB",
+    "name": "Hortelã Gelada"
+  },
+  {
+    "hex": "FDF5E6",
+    "name": "Renda Antiga"
+  },
+  {
+    "hex": "F1E9D2",
+    "name": "Creme de Baunilha"
+  },
+  {
+    "hex": "EAE0C8",
+    "name": "Duna de Areia"
+  },
+  {
+    "hex": "E5E4E2",
+    "name": "Cinza Alabastro"
+  },
+  {
+    "hex": "F7F7F7",
+    "name": "Neve Brilhante"
+  },
+  {
+    "hex": "FFFAFA",
+    "name": "Neve"
+  },
+  {
+    "hex": "FFFFFF",
+    "name": "Branco"
+  },
+  {
+    "hex": "F5F5F5",
+    "name": "Fumaça Branca"
+  },
+  {
+    "hex": "DBD7D2",
+    "name": "Cinza-Pó"
+  },
+  {
+    "hex": "C0C0C0",
+    "name": "Prata"
+  },
+  {
+    "hex": "BEBFC5",
+    "name": "Ardósia Pálida"
+  },
+  {
+    "hex": "B2BEB5",
+    "name": "Cinza-Claro"
+  },
+  {
+    "hex": "98817B",
+    "name": "Taupe"
+  },
+  {
+    "hex": "91A3B0",
+    "name": "Aço Frio"
+  },
+  {
+    "hex": "8C92AC",
+    "name": "Cinza Lavanda"
+  },
+  {
+    "hex": "8B8589",
+    "name": "Granito Rosado"
+  },
+  {
+    "hex": "848482",
+    "name": "Oliva Cinza"
+  },
+  {
+    "hex": "808080",
+    "name": "Cinza"
+  },
+  {
+    "hex": "708090",
+    "name": "Cinza Ardósia"
+  },
+  {
+    "hex": "696969",
+    "name": "Cinza Escuro"
+  },
+  {
+    "hex": "555555",
+    "name": "Carvão"
+  },
+  {
+    "hex": "536878",
+    "name": "Ardósia Azul"
+  },
+  {
+    "hex": "2A3439",
+    "name": "Preto Jato"
+  },
+  {
+    "hex": "4D5D53",
+    "name": "Granito"
+  },
+  {
+    "hex": "2F4F4F",
+    "name": "Cinza Ardósia Escuro"
+  },
+  {
+    "hex": "000000",
+    "name": "Preto"
+  },
+  {
+    "hex": "4B3621",
+    "name": "Nogueira Escura"
+  },
+  {
+    "hex": "36454F",
+    "name": "Azul Carvão"
+  },
+  {
+    "hex": "555D50",
+    "name": "Ébano"
+  },
+  {
+    "hex": "1B1B1B",
+    "name": "Negro de Carbono"
+  },
+  {
+    "hex": "343434",
+    "name": "Grafite"
+  },
+  {
+    "hex": "1A1110",
+    "name": "Grão de Café"
+  },
+  {
+    "hex": "111111",
+    "name": "Ônix"
+  },
+  {
+    "hex": "353839",
+    "name": "Cinza-Chumbo"
+  },
+  {
+    "hex": "414A4C",
+    "name": "Cinza Ferro"
+  },
+  {
+    "hex": "242124",
+    "name": "Cinza Sombra"
+  },
+  {
+    "hex": "010B13",
+    "name": "Preto Tinta"
+  },
+  {
+    "hex": "100C08",
+    "name": "Breu Total"
+  }
+]
